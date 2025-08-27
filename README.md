@@ -16,27 +16,6 @@ I enjoy building practical AI systems that solve real-world business problems.
 ## 💼 Experience
 - **Viettel Digital, Viettel Group** (2024 – Present)  
 - **VinBigdata, Vingroup** (2023 – 2024)  
-- **Computer Vision Vietnam** (2022 – 2023)  
-
----
-
-## 🎓 Education
-- **B.Sc. in IT (AI & Data Science)** – VNU University of Engineering and Technology (2020 – 2024)  
-- **High School for the Gifted, Vinh**
-
----
-
-## 🛠 Skills
-- **Deep Learning**: PyTorch, TensorFlow  
-- **NLP**: LLMs, RAG, Prompt Engineering, Fine-tuning  
-- **Computer Vision**: OCR, Detection, Recognition  
-- **Other**: Multi-Agent Systems, AWS, Tableau  
-
----
-
-## 🤖 Transformer Attention Visual
-*Peek inside the magic—attention patterns of a Transformer:*
-
-![Transformer Attention](https://tse1.mm.bing.net/th/id/OIP.8XaojE6U_7vwabU0q0om2QHaD8?pid=Api)
+- **Computer Vision Vietnam** (2022 – 2023) 
 
 ---
