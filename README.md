@@ -1,14 +1,43 @@
-# 👋 Hi, I'm HuyVD  
+# Hi, I'm Huy Vo 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77C1E&width=435&lines=AI+Developer;NLP+%26+OCR+Projects;Open+Source+Contributor;Always+Learning+%26+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E9FF2&width=435&lines=AI+Engineer;Deep+Learning+%7C+NLP+%7C+Text2SQL;Building+Multi-Agent+Systems;Turning+AI+into+Business+Solutions)](https://git.io/typing-svg)
+
+**AI Engineer | Deep Learning & NLP & Text2SQL Specialist**
+
+📍 Hanoi, Vietnam  
+📫 [hdv250202@gmail.com](mailto:hdv250202@gmail.com) | [LinkedIn](https://linkedin.com/in/vodinhhuy)
 
 ---
 
 ## 🚀 About Me
-- 💻 **AI Developer** with a passion for NLP, OCR, and building chatbots.  
-- 🔬 Exploring **Deep Learning**: CNN, CRNN, Transformer-based architectures.  
-- 🌱 Currently learning **MLOps & Cloud deployment pipelines**.  
-- 🎯 Vision: Build impactful AI tools for **Vietnamese language & business automation**.  
+AI Engineer with experience in **Large Language Models, Multi-Agent Systems, RAG architectures, OCR, and NLP**.  
+Passionate about building practical AI systems that solve real-world business and data problems.
+
+---
+
+## 💼 Experience
+- **Viettel Digital, Viettel Group (2024 – Present)**  
+  Built chatbots, multi-agent systems, and fine-tuned LLMs for text-to-SQL tasks.  
+
+- **VinBigdata, Vingroup (2023 – 2024)**  
+  Developed AI assistants for tabular data, Q&A systems on AWS, and fraud detection systems.  
+
+- **Computer Vision Vietnam (2022 – 2023)**  
+  Built OCR systems for ID cards, fraud detection algorithms, and fine-tuned PhoBERT for NLP tasks.  
+
+---
+
+## 🎓 Education
+- **B.Sc. in IT (AI & Data Science)** – VNU University of Engineering and Technology (2020 – 2024)  
+- **High School for the Gifted, Vinh**
+
+---
+
+## 🛠 Skills
+- **Deep Learning**: PyTorch, TensorFlow  
+- **NLP**: LLMs, RAG, Prompt Engineering, Fine-tuning  
+- **Computer Vision**: OCR, Detection, Recognition  
+- **Other**: Multi-Agent Systems, AWS, Tableau  
 
 ---
 
@@ -22,12 +51,3 @@
 ![snake gif](https://github.com/huyvd11-468867/huyvd11-468867/blob/output/github-contribution-grid-snake.gif)
 
 ---
-
-## 📬 Connect with Me
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/)  
-- 🌐 Portfolio: [your-website.com](https://your-website.com)  
-
----
-
-⭐️ From [huyvd11-468867](https://github.com/huyvd11-468867)
