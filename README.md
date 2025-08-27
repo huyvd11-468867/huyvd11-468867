@@ -34,5 +34,9 @@ I enjoy building practical AI systems that solve real-world business problems.
 
 ---
 
-## 🐍 Contribution Graph
-![Snake animation](https://raw.githubusercontent.com/huyvd11-468867/huyvd11-468867/output/github-contribution-grid-snake.svg)
+## 🤖 Transformer Attention Visual
+*Peek inside the magic—attention patterns of a Transformer:*
+
+![Transformer Attention](https://tse1.mm.bing.net/th/id/OIP.8XaojE6U_7vwabU0q0om2QHaD8?pid=Api)
+
+---
