@@ -5,7 +5,8 @@
 ---
 
 ## 🚀 About Me
-***AI Engineer | Deep Learning • NLP • Text2SQL Specialist***
+***AI Engineer | Deep Learning • NLP • Text2SQL Specialist***.
+
 AI Engineer experienced in **Large Language Models, Multi-Agent Systems, RAG, OCR, and NLP**.  
 I enjoy building practical AI systems that solve real-world business problems.
 
